@@ -1,0 +1,42 @@
+.Header{
+    background-color: red;
+    font-size: 40px;
+
+}
+
+.recipe-description{
+
+background-color: green;
+color: black;
+font-size: 25px;
+font-weight: bold;
+
+}
+
+.instructions { 
+font-family: "Times New Roman", Verdana; 
+font-size: 20px;
+background-color: yellow;
+
+}
+
+.unordered {
+
+    background-color: lightblue;
+
+}
+
+.ordered {
+    background-color: lightgreen;
+}
+
+#ingredients_header {
+
+    font-family: Italic;
+    color: purple;
+    font-size: 35px;
+}
+
+li {
+    margin: 10px;
+}
